@@ -1,6 +1,6 @@
 <?php return array (
   'site_name' => '资源站',
-  'password' => 'oneindex',
+  'password' => 'onecclae',
   'style' => 'nexmoe',
   'onedrive_root' => '/',
   'cache_type' => 'secache',
